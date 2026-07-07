@@ -1,0 +1,6 @@
+{
+  "name": "PRISMA",
+  "description": "Asistente pedagógico para docentes de Educación Primaria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
